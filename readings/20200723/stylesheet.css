@@ -1,0 +1,29 @@
+body{
+  margin-left:10%;
+  margin-right:10%;
+}
+
+h1{
+  text-align:center;
+  font-size:60px;
+}
+
+p{
+  font-size:20px;
+  text-align:justify;
+}
+
+hr{
+  height:2px;
+  border:none;
+  background-color:black;
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+
+.img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
