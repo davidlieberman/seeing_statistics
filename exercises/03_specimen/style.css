@@ -5,25 +5,29 @@
 
 .fontA {
   font-family: 'Aposiopesis_Normal';
-  letter-spacing: 0.25em;
-  text-align: center;
 }
-
-
-.fontA .specimen {
-  font-size: 8vw;
-  line-height: 1;
-}
-
 
 .fontB {
   font-family: 'Space Mono';
   font-style: italic;
 }
 
+.fontA, .fontB{
+  letter-spacing: 0.25em;
+  text-align: center;
+}
+
+.specimen {
+  font-size: 6vw;
+  line-height: 1;
+  margin-bottom: 1.5em;
+}
+
 .specimen div {
   padding-bottom: .5em;
 }
+
+
 
 a {
   color:black;
